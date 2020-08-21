@@ -1,5 +1,11 @@
-This is my first attempt at a portfolio.
-This includes an about me, a portfolio with personal images of myself and my family
-and a contact form.
+#first-portfolio
 
-I used bootstrap for the majority of my code to get responsive images, layout and a navbar.
+![description](.assets/aboutme.png)
+![description](.assets/projects.png)
+![description](.assets/contact.png)
+
+description:
+This is my edited and updated version of my portfolio.
+My original portfolio did not have css at all, this one has been improved by using css and bootstrap.
+
+Deployed link:
