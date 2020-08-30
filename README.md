@@ -8,7 +8,7 @@ description:
 This is my edited and updated version of my portfolio.
 My original portfolio did not have css at all, this one has been improved by using css and bootstrap.
 
-Deployed links: https://kmarzi.github.io/updated-portfolio/.
+Deployed link: https://kmarzi.github.io/updated-portfolio/.
 
 ##Project 1: https://kmarzi.github.io/Project-1/
 Repo Link: https://github.com/kmarzi/Project-1
